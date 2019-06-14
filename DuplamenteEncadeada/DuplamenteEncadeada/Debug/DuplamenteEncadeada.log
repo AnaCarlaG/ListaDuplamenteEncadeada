@@ -1,0 +1,4 @@
+﻿  Lista.cpp
+c:\users\solar\source\repos\duplamenteencadeada\duplamenteencadeada\lista.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\solar\source\repos\duplamenteencadeada\duplamenteencadeada\lista.h(47): warning C4812: obsolete declaration style: please use 'Lista<T>::Lista' instead
+  DuplamenteEncadeada.vcxproj -> C:\Users\solar\source\repos\DuplamenteEncadeada\Debug\DuplamenteEncadeada.exe
